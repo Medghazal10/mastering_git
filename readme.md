@@ -1,6 +1,3 @@
-text of readme file
+welcome to git
 
-I am adding this from "feature-branch"
-
-hello
-hello again
+This is coming from dev-jsm
